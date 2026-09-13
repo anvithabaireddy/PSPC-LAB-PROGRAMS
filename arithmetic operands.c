@@ -9,7 +9,7 @@ int main()
 	sub=a-b;
 	mul=a*b;
 	mod=a%b;
-	div=(float)(a/b);
+	div=(float)a/b;
 	printf("sum=%d\n",add);
 	printf("subtraction=%d\n",sub);
 	printf("multiplication=%d\n",mul);
