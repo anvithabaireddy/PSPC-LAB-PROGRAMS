@@ -4,10 +4,10 @@
 int main()
 {
 	float r,area;
-	printf("Enter radius value/n");
+	printf("Enter radius value\n");
 	scanf("%f",&r);
 	area=3.14*pow(r,2);
-	printf("area of circle=%f/n",area);
+	printf("area of circle=%f\n",area);
 	return 0;
 }
 
